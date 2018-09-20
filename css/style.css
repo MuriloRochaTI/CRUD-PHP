@@ -1,0 +1,101 @@
+/** CSS **/
+.tela_cadastro{
+    width: 500px;
+    height: 50px;
+    
+    font-size: 40px;
+    color: black;
+   
+    
+    
+}
+
+.contatos{
+    width: 500px;
+    height: 180px;
+    margin-top: 10px;
+}
+
+.titulo_consulta{
+    width: 1500px;
+    height: 50px;
+    
+    font-size: 30px;
+    text-align: center;
+}
+
+.div_form{
+    width: 1800px;
+    height: 200px;
+}
+
+.nomes_form{
+    width: 1500px;
+    height: 40px;
+    background-color: peachpuff;
+    border: 1px solid black;
+    
+}
+
+.nomes_form2{
+    width: 1500px;
+    height: 40px;
+    background-color: burlywood;
+    border: 1px solid black;
+}
+
+.nomes_consulta{
+    width: 300px;
+    height: 30px;
+    float: left;
+    background-color: #f7f3e3;
+    padding-top: 10px;
+    font-size: 16px;
+}
+.nomes_consulta2{
+    width: 300px;
+    height: 30px;
+    float: left;
+    background-color: cornsilk;
+    padding-top: 10px;
+}
+
+.img{
+    width: 60px;
+    margin-left: 5px;
+    height: 30px;
+
+    float: left;
+}
+
+/* ****** MODAL  **********/
+
+#container{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    z-index: 999;
+    display: none;
+}
+
+#modal{
+    width: 700px;
+    height: 500px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
